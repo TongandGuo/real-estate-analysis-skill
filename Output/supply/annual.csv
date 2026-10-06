@@ -1,0 +1,8 @@
+﻿series_id,period,value,source_id,captured_at,method,note
+"ibb_apartment_ads_annual","2022","23629","ibb-2022","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2022: 23,629 sale-apartment ads during calendar year; VALUE database."
+"ibb_apartment_ads_annual","2023","25598","ibb-2023","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2023: 25,598 sale-apartment ads; includes ads of unclear build-year classification."
+"ibb_house_ads_annual","2023","5235","ibb-2023","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2023: 5,235 advertised one- and two-family houses."
+"ibb_apartment_ads_annual","2024","28841","ibb-2024","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2024: 28,841 sale-apartment ads in calendar 2024."
+"ibb_house_ads_annual","2024","5631","ibb-2024","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2024: 5,631 one- and two-family house ads."
+"ibb_apartment_ads_annual","2025","31312","ibb-2025","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2025: 31,312 sale-apartment ads, 8.6% above 2024."
+"ibb_house_ads_annual","2025","6135","ibb-2025","2026-10-04T11:15:24.145Z","official_report","IBB Wohnungsmarktbericht 2025: 6,135 one- and two-family house ads, 9.0% above 2024."

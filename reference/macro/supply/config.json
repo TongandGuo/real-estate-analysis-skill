@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "timezone": "Europe/Berlin",
+  "annual_series": [
+    {"id":"ibb_apartment_ads_annual","label":"柏林全年出售公寓挂牌广告数","scope":"Berlin city; Eigentumswohnungen; calendar-year ads","unit":"ads/year"},
+    {"id":"ibb_house_ads_annual","label":"柏林全年一二户住宅挂牌广告数","scope":"Berlin city; Ein- und Zweifamilienhäuser; calendar-year ads","unit":"ads/year"}
+  ],
+  "snapshot_series": [
+    {"id":"immowelt_apartments_berlin","label":"Immowelt 柏林在售公寓","scope":"Berlin city; apartment purchase; unfiltered","url":"https://www.immowelt.de/suche/kaufen/wohnung/berlin/berlin-11000/ad06de326","heading":"Wohnungen kaufen in Berlin","unit":"visible search results"},
+    {"id":"immowelt_houses_berlin","label":"Immowelt 柏林在售住宅房屋","scope":"Berlin city; house purchase; unfiltered","url":"https://www.immowelt.de/suche/kaufen/haus/berlin/berlin-10115/ad08de8634/","heading":"Häuser kaufen in Berlin","unit":"visible search results"},
+    {"id":"immowelt_apartments_mitte","label":"Immowelt Mitte 行政区在售公寓","scope":"Mitte Bezirk; apartment purchase; unfiltered","url":"https://www.immowelt.de/suche/kaufen/wohnung/berlin-10115/mitte-10117/ad09de475","heading":"Wohnungen kaufen in Berlin Mitte","unit":"visible search results"}
+  ],
+  "supplementary_sources": [
+    {"id":"is24_apartments_berlin","label":"ImmoScout24 柏林在售公寓","url":"https://www.immobilienscout24.de/Suche/de/berlin/berlin/wohnung-kaufen","access":"web-assisted; direct HTTP may return 401"},
+    {"id":"is24_houses_berlin","label":"ImmoScout24 柏林在售房屋","url":"https://www.immobilienscout24.de/Suche/de/berlin/berlin/haus-kaufen","access":"web-assisted; direct HTTP may return 401"}
+  ],
+  "annual_sources": [
+    {"id":"ibb-2022","url":"https://www.ibb.de/de/ueber-uns/publikationen/wohnungsmarktbericht/2022.html"},
+    {"id":"ibb-2023","url":"https://www.ibb.de/media/dokumente/publikationen/berliner-wohnungsmarkt/wohnungsmarktbericht/ibb-wohnungsmarktbericht-2023.pdf"},
+    {"id":"ibb-2024","url":"https://www.ibb.de/de/ueber-uns/publikationen/wohnungsmarktbericht/2024.html"},
+    {"id":"ibb-2025","url":"https://www.ibb.de/de/ueber-uns/publikationen/wohnungsmarktbericht/2025.html"}
+  ]
+}

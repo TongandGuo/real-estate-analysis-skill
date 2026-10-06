@@ -1,0 +1,2 @@
+{"at":"2026-10-04T11:15:24.197Z","action":"ingest","added":9,"batch":"2026-10-04-annual-seed.json"}
+{"at":"2026-10-04T11:15:38.685Z","action":"refresh","successes":[{"series_id":"immowelt_apartments_berlin","value":9284,"period":"2026-10-04"},{"series_id":"immowelt_houses_berlin","value":2565,"period":"2026-10-04"},{"series_id":"immowelt_apartments_mitte","value":1212,"period":"2026-10-04"}],"failures":[]}

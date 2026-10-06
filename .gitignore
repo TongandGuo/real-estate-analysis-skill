@@ -1,0 +1,15 @@
+# Local runtimes and caches
+**/__pycache__/
+*.py[cod]
+**/node_modules/
+**/.runtime/
+**/.incoming/
+*.inspect.ndjson
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Nonessential local backups and source excerpts
+Output/macro/history/*-before.*
+Output/trends/evidence/

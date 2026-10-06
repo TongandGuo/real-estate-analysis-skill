@@ -1,0 +1,13 @@
+{
+  "observations": [
+    {"series_id":"ibb_apartment_ads_annual","period":"2022","value":23629,"source_id":"ibb-2022","method":"official_report","note":"IBB Wohnungsmarktbericht 2022: 23,629 sale-apartment ads during calendar year; VALUE database."},
+    {"series_id":"ibb_apartment_ads_annual","period":"2023","value":25598,"source_id":"ibb-2023","method":"official_report","note":"IBB Wohnungsmarktbericht 2023: 25,598 sale-apartment ads; includes ads of unclear build-year classification."},
+    {"series_id":"ibb_house_ads_annual","period":"2023","value":5235,"source_id":"ibb-2023","method":"official_report","note":"IBB Wohnungsmarktbericht 2023: 5,235 advertised one- and two-family houses."},
+    {"series_id":"ibb_apartment_ads_annual","period":"2024","value":28841,"source_id":"ibb-2024","method":"official_report","note":"IBB Wohnungsmarktbericht 2024: 28,841 sale-apartment ads in calendar 2024."},
+    {"series_id":"ibb_house_ads_annual","period":"2024","value":5631,"source_id":"ibb-2024","method":"official_report","note":"IBB Wohnungsmarktbericht 2024: 5,631 one- and two-family house ads."},
+    {"series_id":"ibb_apartment_ads_annual","period":"2025","value":31312,"source_id":"ibb-2025","method":"official_report","note":"IBB Wohnungsmarktbericht 2025: 31,312 sale-apartment ads, 8.6% above 2024."},
+    {"series_id":"ibb_house_ads_annual","period":"2025","value":6135,"source_id":"ibb-2025","method":"official_report","note":"IBB Wohnungsmarktbericht 2025: 6,135 one- and two-family house ads, 9.0% above 2024."},
+    {"series_id":"is24_apartments_berlin","period":"2026-10-04","value":13204,"source_id":"is24_apartments_berlin","method":"web_indexed","note":"Official ImmoScout24 Berlin apartment search page, web tool crawled today; not a direct HTTP scrape."},
+    {"series_id":"is24_houses_berlin","period":"2026-10-04","value":3458,"source_id":"is24_houses_berlin","method":"web_indexed","note":"Official ImmoScout24 Berlin house search page, web tool crawled today; not a direct HTTP scrape."}
+  ]
+}

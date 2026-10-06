@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "period": "2025",
+  "unit": "EUR/m²/month net cold asking rent median",
+  "source_url": "https://www.ibb.de/media/dokumente/publikationen/berliner-wohnungsmarkt/wohnungsmarktbericht/2025/ibb-wohnungsmarktbericht-angebotsmieten_2012-2025.pdf",
+  "accessed_on": "2026-10-03",
+  "districts": {
+    "Mitte": 20,
+    "Friedrichshain-Kreuzberg": 19.4,
+    "Pankow": 17,
+    "Charlottenburg-Wilmersdorf": 19.17,
+    "Spandau": 12.5,
+    "Steglitz-Zehlendorf": 15,
+    "Tempelhof-Schöneberg": 15.79,
+    "Neukölln": 13.61,
+    "Treptow-Köpenick": 15.6,
+    "Marzahn-Hellersdorf": 11.56,
+    "Lichtenberg": 13.33,
+    "Reinickendorf": 12.8
+  },
+  "berlin": 15.78
+}

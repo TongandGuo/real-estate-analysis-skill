@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-04T11:15:38.656Z",
+  "observations": [
+    {
+      "series_id": "ibb_apartment_ads_annual",
+      "period": "2022",
+      "value": 23629,
+      "source_id": "ibb-2022",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2022: 23,629 sale-apartment ads during calendar year; VALUE database.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_apartment_ads_annual_2022_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "ibb_apartment_ads_annual",
+      "period": "2023",
+      "value": 25598,
+      "source_id": "ibb-2023",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2023: 25,598 sale-apartment ads; includes ads of unclear build-year classification.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_apartment_ads_annual_2023_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "ibb_house_ads_annual",
+      "period": "2023",
+      "value": 5235,
+      "source_id": "ibb-2023",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2023: 5,235 advertised one- and two-family houses.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_house_ads_annual_2023_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "ibb_apartment_ads_annual",
+      "period": "2024",
+      "value": 28841,
+      "source_id": "ibb-2024",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2024: 28,841 sale-apartment ads in calendar 2024.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_apartment_ads_annual_2024_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "ibb_house_ads_annual",
+      "period": "2024",
+      "value": 5631,
+      "source_id": "ibb-2024",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2024: 5,631 one- and two-family house ads.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_house_ads_annual_2024_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "ibb_apartment_ads_annual",
+      "period": "2025",
+      "value": 31312,
+      "source_id": "ibb-2025",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2025: 31,312 sale-apartment ads, 8.6% above 2024.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_apartment_ads_annual_2025_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "ibb_house_ads_annual",
+      "period": "2025",
+      "value": 6135,
+      "source_id": "ibb-2025",
+      "method": "official_report",
+      "note": "IBB Wohnungsmarktbericht 2025: 6,135 one- and two-family house ads, 9.0% above 2024.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "ibb_house_ads_annual_2025_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "is24_apartments_berlin",
+      "period": "2026-10-04",
+      "value": 13204,
+      "source_id": "is24_apartments_berlin",
+      "method": "web_indexed",
+      "note": "Official ImmoScout24 Berlin apartment search page, web tool crawled today; not a direct HTTP scrape.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "is24_apartments_berlin_2026-10-04_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "series_id": "is24_houses_berlin",
+      "period": "2026-10-04",
+      "value": 3458,
+      "source_id": "is24_houses_berlin",
+      "method": "web_indexed",
+      "note": "Official ImmoScout24 Berlin house search page, web tool crawled today; not a direct HTTP scrape.",
+      "captured_at": "2026-10-04T11:15:24.145Z",
+      "id": "is24_houses_berlin_2026-10-04_2026-10-04T11:15:24.145Z"
+    },
+    {
+      "id": "immowelt_apartments_berlin_2026-10-04T11:15:36.498Z",
+      "series_id": "immowelt_apartments_berlin",
+      "period": "2026-10-04",
+      "value": 9284,
+      "source_id": "immowelt_apartments_berlin",
+      "captured_at": "2026-10-04T11:15:36.498Z",
+      "method": "direct_public_html",
+      "note": "Visible search-result heading; unfiltered fixed URL"
+    },
+    {
+      "id": "immowelt_houses_berlin_2026-10-04T11:15:37.724Z",
+      "series_id": "immowelt_houses_berlin",
+      "period": "2026-10-04",
+      "value": 2565,
+      "source_id": "immowelt_houses_berlin",
+      "captured_at": "2026-10-04T11:15:37.724Z",
+      "method": "direct_public_html",
+      "note": "Visible search-result heading; unfiltered fixed URL"
+    },
+    {
+      "id": "immowelt_apartments_mitte_2026-10-04T11:15:38.655Z",
+      "series_id": "immowelt_apartments_mitte",
+      "period": "2026-10-04",
+      "value": 1212,
+      "source_id": "immowelt_apartments_mitte",
+      "captured_at": "2026-10-04T11:15:38.655Z",
+      "method": "direct_public_html",
+      "note": "Visible search-result heading; unfiltered fixed URL"
+    }
+  ]
+}

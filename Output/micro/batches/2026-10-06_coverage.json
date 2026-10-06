@@ -1,0 +1,50 @@
+{
+  "platforms": [
+    {
+      "pages_completed": 0,
+      "platform": "ImmoScout24",
+      "displayed_total": null,
+      "query_url": "https://www.immobilienscout24.de/Suche/de/berlin/berlin/wohnung-kaufen?price=-500000&livingspace=40-",
+      "blocker": "结果页不可访问；仅复核部分旧单套页",
+      "pages_available": null,
+      "raw_ids_collected": 0
+    },
+    {
+      "pages_completed": 0,
+      "platform": "Immowelt",
+      "displayed_total": null,
+      "query_url": "https://www.immowelt.de/suche/kaufen/wohnung/berlin/berlin-10115/ad08de10359",
+      "blocker": "结果页不可访问；旧单套页存在缓存时滞",
+      "pages_available": null,
+      "raw_ids_collected": 0
+    },
+    {
+      "pages_completed": 0,
+      "platform": "Neubaukompass",
+      "displayed_total": null,
+      "query_url": "https://www.neubaukompass.de/neubau-immobilien/berlin-region-rent/wohnung-kaufen/?apartmenttype=&geo=5",
+      "blocker": "总览页与单套页部分不可访问；仅五个项目页的33个新增单元示例",
+      "pages_available": null,
+      "raw_ids_collected": 33
+    },
+    {
+      "pages_completed": 0,
+      "platform": "开发商官网",
+      "displayed_total": null,
+      "query_url": "https://www.bonava.de/immobilien/berlin/buch/waldpanorama",
+      "blocker": "仅核实项目层级，具体单套未确认",
+      "pages_available": null,
+      "raw_ids_collected": 0
+    }
+  ],
+  "planned_completion_new": 22,
+  "year_pending_new": 11,
+  "raw_new_examples": 33,
+  "notes": "单套可售性未联系确认；项目页示例不代表全量；未找到旧房源不能推断售出。",
+  "overall_status": "未完成/已核实子集",
+  "built_year_verified_new": 0,
+  "confirmed_removed": 0,
+  "deduplicated_new_examples": 33,
+  "checked_at": "2026-10-06",
+  "scope": "柏林住宅产权公寓，价格严格低于500000欧元，Wohnfläche严格大于40平方米，实际建造年晚于2010年；含二手"
+}

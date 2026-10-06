@@ -1,0 +1,31 @@
+{
+  "observed_on": "2026-10-04",
+  "scope": "Berlin Mitte administrative district, apartment purchase, built after 2010, Wohnfläche >40 sqm, no price ceiling",
+  "status": "incomplete",
+  "verified_subset_records": 11,
+  "method": "Search-engine discovery plus individual listing-page checks; no full pagination",
+  "platforms": [
+    {
+      "name": "ImmoScout24",
+      "url": "https://www.immobilienscout24.de/Suche/de/berlin/berlin/mitte/wohnung-kaufen",
+      "unfiltered_result_count": 1907,
+      "unfiltered_pages": 91,
+      "filtered_result_count": null,
+      "filtered_pages_completed": 0,
+      "blocker": "Normal browser presents robot verification; filtered result list inaccessible"
+    },
+    {
+      "name": "Immowelt",
+      "url": "https://www.immowelt.de/suche/kaufen/wohnung/berlin-10115/mitte-10117/ad09de475",
+      "filtered_url": "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=Apartment&locations=AD09DE475&spaceMin=40&yearOfConstructionMin=2011",
+      "filtered_preview_result_count": 248,
+      "filtered_pages_completed": 0,
+      "blocker": "Filtered result link presents CAPTCHA; 40 sqm threshold still needs strict >40 check"
+    }
+  ],
+  "notes": [
+    "Platform counts can overlap; do not sum them",
+    "Filtered preview count is not a verified row-level inventory",
+    "Do not label subset as complete"
+  ]
+}

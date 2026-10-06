@@ -1,0 +1,6 @@
+﻿series_id,period,value,source_id,captured_at,method,note
+"is24_apartments_berlin","2026-10-04","13204","is24_apartments_berlin","2026-10-04T11:15:24.145Z","web_indexed","Official ImmoScout24 Berlin apartment search page, web tool crawled today; not a direct HTTP scrape."
+"is24_houses_berlin","2026-10-04","3458","is24_houses_berlin","2026-10-04T11:15:24.145Z","web_indexed","Official ImmoScout24 Berlin house search page, web tool crawled today; not a direct HTTP scrape."
+"immowelt_apartments_berlin","2026-10-04","9284","immowelt_apartments_berlin","2026-10-04T11:15:36.498Z","direct_public_html","Visible search-result heading; unfiltered fixed URL"
+"immowelt_houses_berlin","2026-10-04","2565","immowelt_houses_berlin","2026-10-04T11:15:37.724Z","direct_public_html","Visible search-result heading; unfiltered fixed URL"
+"immowelt_apartments_mitte","2026-10-04","1212","immowelt_apartments_mitte","2026-10-04T11:15:38.655Z","direct_public_html","Visible search-result heading; unfiltered fixed URL"
